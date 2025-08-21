@@ -7,7 +7,7 @@
 
 # Slack
 * Disable notification counter on App icon: System settings -> Notifications -> Slack -> toggle "Badge Application Icon" to off
-* Set notifications to disable as a persistent banner instead of auto-dismissed alerts: this ensures all your critical messages are "Sticky" - after configuring all the changes listed here, you'll only see critical notifications and you don't want them to be auto-dismissed.
+* Set notifications to display as a persistent banner instead of auto-dismissed alerts: this ensures all your critical messages are "Sticky" - after configuring all the changes listed here, you'll only see critical notifications and you don't want them to be auto-dismissed.
   <img width="472" height="464" alt="image" src="https://github.com/user-attachments/assets/2b0e773c-149c-470e-b990-c3eeb6388d99" />
 
 * Distraction free view for all messages: Slack app -> Preferences -> Messages & Media -> Theme -> Compact
