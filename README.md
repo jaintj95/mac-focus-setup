@@ -4,6 +4,7 @@
 # Slack
 * Disable notification counter on App icon: System settings -> Notifications -> Slack -> Badge Application Icon
 * Distraction free view for all messages: Slack app -> Preferences -> Messages & Media -> Theme -> Compact
+  * Note - It takes a while to get used to this view. Keep at it and you'll adjust to it in a week or two.
 * How not to miss important notifications: Add managers/leads and important team members to VIP list and check "Always allow notifications from VIPs"
 * Notifications: Uncheck "Notify me about replies to threads I'm following" -> You'll still receive unread threads alert within the app but you won't receive distracting notifications on desktop.
 
