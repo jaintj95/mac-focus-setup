@@ -1,3 +1,7 @@
+# Philosophy
+* Minimise distractions - Get focused work done. Enjoy the rest of your day.
+* Pick and choose - you don't have to make all the adjustments listed below. Pick your poison. 
+
 # Dock 
 * Set to auto-hide to avoid distracting icons. You only focus on the current app window.
 
