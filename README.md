@@ -3,6 +3,9 @@
 
 # Slack
 * Disable notification counter on App icon: System settings -> Notifications -> Slack -> Badge Application Icon
+* Set notifications to disable as a persistent banner instead of auto-dismissed alerts: this ensures all your critical messages are "Sticky" - after configuring all the changes listed here, you'll only see critical notifications and you don't want them to be auto-dismissed.
+  <img width="472" height="464" alt="image" src="https://github.com/user-attachments/assets/2b0e773c-149c-470e-b990-c3eeb6388d99" />
+
 * Distraction free view for all messages: Slack app -> Preferences -> Messages & Media -> Theme -> Compact
   * Note - It takes a while to get used to this view. Keep at it and you'll adjust to it in a week or two.
 * How not to miss important notifications: Add managers/leads and important team members to VIP list and check "Always allow notifications from VIPs"
