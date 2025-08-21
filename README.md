@@ -7,6 +7,9 @@
   * Note - It takes a while to get used to this view. Keep at it and you'll adjust to it in a week or two.
 * How not to miss important notifications: Add managers/leads and important team members to VIP list and check "Always allow notifications from VIPs"
 * Notifications: Uncheck "Notify me about replies to threads I'm following" -> You'll still receive unread threads alert within the app but you won't receive distracting notifications on desktop.
+* Sidebar optimization: Create sections for unimportant/muted channels and move these sections to the bottom. Below DMs.
+  <img width="294" height="203" alt="image" src="https://github.com/user-attachments/assets/20d30a90-d583-4f28-a6b9-4889aff27a5f" />
+
 * Hardcore dev mode: Preferences -> Accessibility -> Simplified Layout Mode
 
 
