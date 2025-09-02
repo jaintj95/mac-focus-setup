@@ -5,6 +5,9 @@
 # Dock 
 * Set to auto-hide to avoid distracting icons. You only focus on the current app window.
 
+# Spotify (advanced users only)
+* Set up [Spotify Player TUI](https://github.com/aome510/spotify-player/tree/master) 
+
 # Slack
 * Disable notification counter on App icon: System settings -> Notifications -> Slack -> toggle "Badge Application Icon" to off
 * How not to miss important notifications: Add managers/leads and important team members to VIP list and check "Always allow notifications from VIPs"
