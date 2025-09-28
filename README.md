@@ -1,5 +1,5 @@
 # Philosophy
-* Minimise distractions - Get focused work done. Enjoy the rest of your day.
+* Minimise distractions - cut out all the noise and focus on the signal
 * Pick and choose - you don't have to make all the adjustments listed below. Pick your poison. 
 
 # Dock 
