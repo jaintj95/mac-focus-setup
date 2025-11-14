@@ -10,7 +10,7 @@
 
 # Slack
 * Disable notification counter on App icon: System settings -> Notifications -> Slack -> toggle "Badge Application Icon" to off
-* How not to miss important notifications: Add managers/leads and important team members to VIP list and check "Always allow notifications from VIPs"
+* Don't miss important notifications: Add managers/leads and important team members to VIP list and check "Always allow notifications from VIPs"
 
 * Distraction free view for all messages: Slack app -> Preferences -> Messages & Media -> Theme -> Compact
   * Note - It takes a while to get used to this view. Keep at it and you'll adjust to it in a week or two.
