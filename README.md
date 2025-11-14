@@ -13,7 +13,7 @@
   * Note - It takes a while to get used to this view. Keep at it and you'll adjust to it in a week or two.
 <img width="750" height="480" alt="image" src="https://github.com/user-attachments/assets/a36f69e3-dddd-47a7-9be7-5adcd50496b4" />
 
-* Notifications: Uncheck "Notify me about replies to threads I'm following" -> You'll still receive unread threads alert within the app but you won't receive distracting notifications on desktop.
+* Notifications: Uncheck "Notify me about replies to threads I'm following" -> You'll still receive unread threads alert within the app but they won't distract you on desktop.
 * Sidebar optimization: Create sections for unimportant/muted channels and move these sections to the bottom (Below DMs.)  
   <img width="294" height="203" alt="image" src="https://github.com/user-attachments/assets/20d30a90-d583-4f28-a6b9-4889aff27a5f" />
 * For Sections that are unimportant: Click on individual sections and set them to show "Mentions only"
