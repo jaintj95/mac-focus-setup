@@ -26,7 +26,7 @@
 
 # [Alt-Tab app switcher](https://alt-tab-macos.netlify.app/) 
 * Override mac app switcher by setting Alt-Tab shortcut to command instead of ctrl
-* Add Slack, Spotify and other non-essential apps to blacklists -> App switcher only shows what you really need for work -> You can still open/switch to these apps using Raycast or Spotlight. The added friction stops you from feeding your doom-switching impulses
+* Add Slack, Spotify and other non-essential apps to blacklists -> App switcher only shows what you really need for work -> You can still open/switch to these apps using Raycast or Spotlight. The added friction stops you from feeding your "doom-switching" impulses
 * Set controls to only display windows from Current Space, Hide hidden windows 
  <img width="561" height="615" alt="image" src="https://github.com/user-attachments/assets/0c8fc75e-5bc0-48f7-b8a3-aa2fabc6018e" />
 
