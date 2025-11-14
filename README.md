@@ -1,6 +1,6 @@
-# Philosophy
-* Minimise distractions - cut out all the noise and focus on the signal
-* Pick and choose - you don't have to make all the adjustments listed below. Pick your poison. 
+Philosophy
+* Minimize distractions – cut out the noise and focus on the signal.
+* Pick your battles – you don’t need to apply every tweak in this guide; choose the ones that work best for you.
 
 # Dock 
 * Set to auto-hide to avoid distracting icons. You only focus on the current app window.
