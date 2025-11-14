@@ -24,7 +24,7 @@
 * Hardcore dev mode: Preferences -> Accessibility -> Simplified Layout Mode
 
 
-# Alt-Tab app
+# [Alt-Tab app switcher](https://alt-tab-macos.netlify.app/) 
 * Override mac app switcher by setting Alt-Tab shortcut to command instead of ctrl
 * Add Slack, Spotify and other non-essential apps to blacklists -> App switcher only shows what you really need for work -> You can still open/switch to these apps using Raycast or Spotlight. The added friction stops you from feeding your doom-switching impulses
 * Set controls to only display windows from Current Space, Hide hidden windows 
