@@ -5,11 +5,6 @@
 # Dock 
 * Set to auto-hide to avoid distracting icons. You only focus on the current app window.
 
-# Spotify (advanced users only)
-* Set up [Spotify Player TUI](https://github.com/aome510/spotify-player/tree/master) 
-<img width="1024" height="527" alt="image" src="https://github.com/user-attachments/assets/ecb78f2e-44f1-4c22-ad0e-80cc0c17828a" />
-
-
 # Slack
 * Disable notification counter on App icon: System settings -> Notifications -> Slack -> toggle "Badge Application Icon" to off
 * Don't miss important notifications: Add managers/leads and important team members to VIP list and check "Always allow notifications from VIPs"
@@ -34,5 +29,6 @@
 * Set controls to only display windows from Current Space, Hide hidden windows 
  <img width="561" height="615" alt="image" src="https://github.com/user-attachments/assets/0c8fc75e-5bc0-48f7-b8a3-aa2fabc6018e" />
 
-
-
+# Spotify (advanced users only)
+* Set up [Spotify Player TUI](https://github.com/aome510/spotify-player/tree/master) 
+<img width="1024" height="527" alt="image" src="https://github.com/user-attachments/assets/ecb78f2e-44f1-4c22-ad0e-80cc0c17828a" />
