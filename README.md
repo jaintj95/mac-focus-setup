@@ -1,4 +1,4 @@
-Philosophy
+# Philosophy
 * Minimize distractions – cut out the noise and focus on the signal.
 * Pick your battles – you don’t need to apply every tweak in this guide; choose the ones that work best for you.
 
