@@ -8,11 +8,6 @@
 # Slack
 * Disable notification counter on App icon: System settings -> Notifications -> Slack -> toggle "Badge Application Icon" to off
 * Don't miss important notifications: Add managers/leads and important team members to VIP list and check "Always allow notifications from VIPs"
-
-* Distraction free UI: Slack app -> Preferences -> Messages & Media -> Theme -> Compact
-  * Note - It takes a while to get used to this view. Keep at it and you'll adjust to it in a week or two.
-<img width="750" height="480" alt="image" src="https://github.com/user-attachments/assets/a36f69e3-dddd-47a7-9be7-5adcd50496b4" />
-
 * Notifications: Uncheck "Notify me about replies to threads I'm following" -> You'll still receive unread threads alert within the app but they won't distract you on desktop.
 * Sidebar optimization: Create sections for unimportant/muted channels and move these sections to the bottom (Below DMs.)  
   <img width="294" height="203" alt="image" src="https://github.com/user-attachments/assets/20d30a90-d583-4f28-a6b9-4889aff27a5f" />
@@ -21,7 +16,11 @@
 * Set notifications to display as a persistent banner instead of auto-dismissed alerts: this ensures all your critical messages are "Sticky" - after configuring all the changes listed here, you'll only see critical notifications and you don't want them to be auto-dismissed.  
   <img width="472" height="464" alt="image" src="https://github.com/user-attachments/assets/2b0e773c-149c-470e-b990-c3eeb6388d99" />
 
-* Hardcore dev mode: Preferences -> Accessibility -> Simplified Layout Mode
+* Distraction free UI: Slack app -> Preferences -> Messages & Media -> Theme -> Compact
+  * Note - It takes a while to get used to this view. Keep at it and you'll adjust to it in a week or two.
+<img width="750" height="480" alt="image" src="https://github.com/user-attachments/assets/a36f69e3-dddd-47a7-9be7-5adcd50496b4" />
+
+* Hardcore mode: Preferences -> Accessibility -> Simplified Layout Mode
 
 
 # [Alt-Tab app switcher](https://alt-tab-macos.netlify.app/) 
